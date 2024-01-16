@@ -4,7 +4,8 @@
   "description": "",
   "main": "redux-demo.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "redux-demo.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/Kiran9991/Redux-learning#readme",
   "dependencies": {
+    "nodemon": "^3.0.2",
     "redux": "^5.0.1"
   }
 }
