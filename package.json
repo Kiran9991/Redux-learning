@@ -1,0 +1,23 @@
+{
+  "name": "redux-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiran9991/Redux-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiran9991/Redux-learning/issues"
+  },
+  "homepage": "https://github.com/Kiran9991/Redux-learning#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
